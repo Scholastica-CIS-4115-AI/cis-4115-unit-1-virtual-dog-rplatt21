@@ -20,7 +20,7 @@ public class dog {
     public States state = States.HAPPY;
 
     String[] action_names = { //array of strings for actions
-        "Pet dog",
+        "Pet dog  ",
         "Walk the dog",
         "Feed the dog",
         "Ignore the dog"};
